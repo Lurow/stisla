@@ -3,7 +3,7 @@
 # Stisla
 Stisla is HTML5 and CSS3 Template Based on Bootstrap 4
 
-#What is this fork about?
+# What is this fork about?
 Just a really simple webpack bundler above this beautiful template to make your projects more maintainable.
 Written code is unchanged.`app.js` takes all dependencies and bundles it into `dist/bundle.js`.
 
